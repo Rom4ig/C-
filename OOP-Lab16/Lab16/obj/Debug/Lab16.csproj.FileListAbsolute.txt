@@ -1,0 +1,21 @@
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.pdb
+D:\OOTP_LAB-master\Lab16\Lab16\bin\Debug\Lab16.exe.config
+D:\OOTP_LAB-master\Lab16\Lab16\bin\Debug\Lab16.exe
+D:\OOTP_LAB-master\Lab16\Lab16\bin\Debug\Lab16.pdb
+D:\OOTP_LAB-master\Lab16\Lab16\obj\Debug\Lab16.csprojResolveAssemblyReference.cache
+D:\OOTP_LAB-master\Lab16\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+D:\OOTP_LAB-master\Lab16\Lab16\obj\Debug\Lab16.exe
+D:\OOTP_LAB-master\Lab16\Lab16\obj\Debug\Lab16.pdb
+C:\Lab16\Lab16\bin\Debug\Lab16.exe.config
+C:\Lab16\Lab16\bin\Debug\Lab16.exe
+C:\Lab16\Lab16\bin\Debug\Lab16.pdb
+C:\Lab16\Lab16\obj\Debug\Lab16.csprojAssemblyReference.cache
+C:\Lab16\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+C:\Lab16\Lab16\obj\Debug\Lab16.exe
+C:\Lab16\Lab16\obj\Debug\Lab16.pdb

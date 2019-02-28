@@ -1,0 +1,17 @@
+C:\Users\Lenovo\documents\visual studio 2017\Projects\oop_lab9\oop_lab9\bin\Debug\oop_lab9.exe
+C:\Users\Lenovo\documents\visual studio 2017\Projects\oop_lab9\oop_lab9\bin\Debug\oop_lab9.pdb
+C:\Users\Lenovo\documents\visual studio 2017\Projects\oop_lab9\oop_lab9\obj\Debug\oop_lab9.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2017\Projects\oop_lab9\oop_lab9\obj\Debug\oop_lab9.exe
+C:\Users\Lenovo\documents\visual studio 2017\Projects\oop_lab9\oop_lab9\obj\Debug\oop_lab9.pdb
+G:\BSTU\2 курс\3-ООП\OOP-Lab9\oop_lab9\bin\Debug\oop_lab9.exe
+G:\BSTU\2 курс\3-ООП\OOP-Lab9\oop_lab9\bin\Debug\oop_lab9.pdb
+G:\BSTU\2 курс\3-ООП\OOP-Lab9\oop_lab9\obj\Debug\oop_lab9.csprojResolveAssemblyReference.cache
+G:\BSTU\2 курс\3-ООП\OOP-Lab9\oop_lab9\obj\Debug\oop_lab9.csproj.CoreCompileInputs.cache
+G:\BSTU\2 курс\3-ООП\OOP-Lab9\oop_lab9\obj\Debug\oop_lab9.exe
+G:\BSTU\2 курс\3-ООП\OOP-Lab9\oop_lab9\obj\Debug\oop_lab9.pdb
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab9\oop_lab9\bin\Debug\oop_lab9.exe
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab9\oop_lab9\bin\Debug\oop_lab9.pdb
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab9\oop_lab9\obj\Debug\oop_lab9.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab9\oop_lab9\obj\Debug\oop_lab9.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab9\oop_lab9\obj\Debug\oop_lab9.exe
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab9\oop_lab9\obj\Debug\oop_lab9.pdb

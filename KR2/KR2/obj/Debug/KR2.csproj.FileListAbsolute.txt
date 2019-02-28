@@ -1,0 +1,7 @@
+C:\Users\Roman\Desktop\3 семестр\ООП\KR2\KR2\bin\Debug\KR2.exe.config
+C:\Users\Roman\Desktop\3 семестр\ООП\KR2\KR2\bin\Debug\KR2.exe
+C:\Users\Roman\Desktop\3 семестр\ООП\KR2\KR2\bin\Debug\KR2.pdb
+C:\Users\Roman\Desktop\3 семестр\ООП\KR2\KR2\obj\Debug\KR2.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\3 семестр\ООП\KR2\KR2\obj\Debug\KR2.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\3 семестр\ООП\KR2\KR2\obj\Debug\KR2.exe
+C:\Users\Roman\Desktop\3 семестр\ООП\KR2\KR2\obj\Debug\KR2.pdb

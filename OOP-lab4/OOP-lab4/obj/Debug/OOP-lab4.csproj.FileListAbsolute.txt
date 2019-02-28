@@ -1,0 +1,14 @@
+D:\BSTU\2 курс\3-ООП\OOP-lab4\OOP-lab4\bin\Debug\OOP-lab4.exe.config
+D:\BSTU\2 курс\3-ООП\OOP-lab4\OOP-lab4\bin\Debug\OOP-lab4.exe
+D:\BSTU\2 курс\3-ООП\OOP-lab4\OOP-lab4\bin\Debug\OOP-lab4.pdb
+D:\BSTU\2 курс\3-ООП\OOP-lab4\OOP-lab4\obj\Debug\OOP-lab4.csprojResolveAssemblyReference.cache
+D:\BSTU\2 курс\3-ООП\OOP-lab4\OOP-lab4\obj\Debug\OOP-lab4.csproj.CoreCompileInputs.cache
+D:\BSTU\2 курс\3-ООП\OOP-lab4\OOP-lab4\obj\Debug\OOP-lab4.exe
+D:\BSTU\2 курс\3-ООП\OOP-lab4\OOP-lab4\obj\Debug\OOP-lab4.pdb
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-lab4\OOP-lab4\bin\Debug\OOP-lab4.exe.config
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-lab4\OOP-lab4\bin\Debug\OOP-lab4.exe
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-lab4\OOP-lab4\bin\Debug\OOP-lab4.pdb
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-lab4\OOP-lab4\obj\Debug\OOP-lab4.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-lab4\OOP-lab4\obj\Debug\OOP-lab4.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-lab4\OOP-lab4\obj\Debug\OOP-lab4.exe
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-lab4\OOP-lab4\obj\Debug\OOP-lab4.pdb

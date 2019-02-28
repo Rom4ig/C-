@@ -1,0 +1,21 @@
+G:\BSTU\2 курс\3-ООП\OOP-Lab5\OOP-Lab5\bin\Debug\OOP-Lab5.exe.config
+G:\BSTU\2 курс\3-ООП\OOP-Lab5\OOP-Lab5\bin\Debug\OOP-Lab5.exe
+G:\BSTU\2 курс\3-ООП\OOP-Lab5\OOP-Lab5\bin\Debug\OOP-Lab5.pdb
+G:\BSTU\2 курс\3-ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.csprojResolveAssemblyReference.cache
+G:\BSTU\2 курс\3-ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.csproj.CoreCompileInputs.cache
+G:\BSTU\2 курс\3-ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.exe
+G:\BSTU\2 курс\3-ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.pdb
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab5\OOP-Lab5\bin\Debug\OOP-Lab5.exe.config
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab5\OOP-Lab5\bin\Debug\OOP-Lab5.exe
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab5\OOP-Lab5\bin\Debug\OOP-Lab5.pdb
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.exe
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.pdb
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab5\OOP-Lab5\bin\Debug\OOP-Lab5.exe.config
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab5\OOP-Lab5\bin\Debug\OOP-Lab5.exe
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab5\OOP-Lab5\bin\Debug\OOP-Lab5.pdb
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.exe
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab5\OOP-Lab5\obj\Debug\OOP-Lab5.pdb

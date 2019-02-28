@@ -1,0 +1,28 @@
+C:\Users\andre\source\repos\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\andre\source\repos\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\andre\source\repos\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\andre\source\repos\Lab13\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+C:\Users\andre\source\repos\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\andre\source\repos\Lab13\Lab13\obj\Debug\Lab13.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab13\Lab13\bin\Debug\Lab13.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab13\Lab13\bin\Debug\Lab13.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab13\Lab13\bin\Debug\Lab13.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab13\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab13\Lab13\obj\Debug\Lab13.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab13\Lab13\obj\Debug\Lab13.pdb
+D:\OOTP_LAB-master\Lab13\Lab13\bin\Debug\Lab13.exe.config
+D:\OOTP_LAB-master\Lab13\Lab13\bin\Debug\Lab13.exe
+D:\OOTP_LAB-master\Lab13\Lab13\bin\Debug\Lab13.pdb
+D:\OOTP_LAB-master\Lab13\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+D:\OOTP_LAB-master\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+D:\OOTP_LAB-master\Lab13\Lab13\obj\Debug\Lab13.exe
+D:\OOTP_LAB-master\Lab13\Lab13\obj\Debug\Lab13.pdb
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab13\Lab13\obj\Debug\Lab13.pdb

@@ -1,0 +1,21 @@
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab15\Lab15\obj\Debug\Lab15.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab15\Lab15\bin\Debug\Lab15.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab15\Lab15\bin\Debug\Lab15.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab15\Lab15\bin\Debug\Lab15.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab15\Lab15\obj\Debug\Lab15.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab15\Lab15\obj\Debug\Lab15.pdb
+D:\OOTP_LAB-master\Lab15\Lab15\bin\Debug\Lab15.exe.config
+D:\OOTP_LAB-master\Lab15\Lab15\bin\Debug\Lab15.exe
+D:\OOTP_LAB-master\Lab15\Lab15\bin\Debug\Lab15.pdb
+D:\OOTP_LAB-master\Lab15\Lab15\obj\Debug\Lab15.csprojResolveAssemblyReference.cache
+D:\OOTP_LAB-master\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+D:\OOTP_LAB-master\Lab15\Lab15\obj\Debug\Lab15.exe
+D:\OOTP_LAB-master\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Lab15\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+C:\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Lab15\Lab15\obj\Debug\Lab15.pdb

@@ -1,0 +1,13 @@
+D:\BSTU\2 курс\3-ООП\OOPLab12\OOPLab12\obj\Debug\OOPLab12.csprojResolveAssemblyReference.cache
+D:\BSTU\2 курс\3-ООП\OOPLab12\OOPLab12\bin\Debug\OOPLab12.exe.config
+D:\BSTU\2 курс\3-ООП\OOPLab12\OOPLab12\bin\Debug\OOPLab12.exe
+D:\BSTU\2 курс\3-ООП\OOPLab12\OOPLab12\bin\Debug\OOPLab12.pdb
+D:\BSTU\2 курс\3-ООП\OOPLab12\OOPLab12\obj\Debug\OOPLab12.exe
+D:\BSTU\2 курс\3-ООП\OOPLab12\OOPLab12\obj\Debug\OOPLab12.pdb
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab12\OOPLab12\bin\Debug\OOPLab12.exe.config
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab12\OOPLab12\bin\Debug\OOPLab12.exe
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab12\OOPLab12\bin\Debug\OOPLab12.pdb
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab12\OOPLab12\obj\Debug\OOPLab12.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab12\OOPLab12\obj\Debug\OOPLab12.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab12\OOPLab12\obj\Debug\OOPLab12.exe
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab12\OOPLab12\obj\Debug\OOPLab12.pdb

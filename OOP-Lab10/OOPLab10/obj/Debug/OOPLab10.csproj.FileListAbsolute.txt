@@ -1,0 +1,28 @@
+C:\Users\rasko\Desktop\OOPLab10-master\OOPLab10\bin\Debug\OOPLab10.exe.config
+C:\Users\rasko\Desktop\OOPLab10-master\OOPLab10\bin\Debug\OOPLab10.exe
+C:\Users\rasko\Desktop\OOPLab10-master\OOPLab10\bin\Debug\OOPLab10.pdb
+C:\Users\rasko\Desktop\OOPLab10-master\OOPLab10\obj\Debug\OOPLab10.csprojResolveAssemblyReference.cache
+C:\Users\rasko\Desktop\OOPLab10-master\OOPLab10\obj\Debug\OOPLab10.csproj.CoreCompileInputs.cache
+C:\Users\rasko\Desktop\OOPLab10-master\OOPLab10\obj\Debug\OOPLab10.exe
+C:\Users\rasko\Desktop\OOPLab10-master\OOPLab10\obj\Debug\OOPLab10.pdb
+G:\BSTU\2 курс\3-ООП\#Материалы\ООП\OOPLab10-master\OOPLab10\obj\Debug\OOPLab10.csprojResolveAssemblyReference.cache
+G:\BSTU\2 курс\3-ООП\#Материалы\ООП\OOPLab10-master\OOPLab10\obj\Debug\OOPLab10.csproj.CoreCompileInputs.cache
+G:\BSTU\2 курс\3-ООП\#Материалы\ООП\OOPLab10-master\OOPLab10\obj\Debug\OOPLab10.exe
+G:\BSTU\2 курс\3-ООП\#Материалы\ООП\OOPLab10-master\OOPLab10\obj\Debug\OOPLab10.pdb
+G:\BSTU\2 курс\3-ООП\#Материалы\ООП\OOPLab10-master\OOPLab10\bin\Debug\OOPLab10.exe.config
+G:\BSTU\2 курс\3-ООП\#Материалы\ООП\OOPLab10-master\OOPLab10\bin\Debug\OOPLab10.exe
+G:\BSTU\2 курс\3-ООП\#Материалы\ООП\OOPLab10-master\OOPLab10\bin\Debug\OOPLab10.pdb
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab10\OOPLab10\bin\Debug\OOPLab10.exe.config
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab10\OOPLab10\bin\Debug\OOPLab10.exe
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab10\OOPLab10\bin\Debug\OOPLab10.pdb
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab10\OOPLab10\obj\Debug\OOPLab10.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab10\OOPLab10\obj\Debug\OOPLab10.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab10\OOPLab10\obj\Debug\OOPLab10.exe
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab10\OOPLab10\obj\Debug\OOPLab10.pdb
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab10\OOPLab10\bin\Debug\OOPLab10.exe.config
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab10\OOPLab10\bin\Debug\OOPLab10.exe
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab10\OOPLab10\bin\Debug\OOPLab10.pdb
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab10\OOPLab10\obj\Debug\OOPLab10.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab10\OOPLab10\obj\Debug\OOPLab10.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab10\OOPLab10\obj\Debug\OOPLab10.exe
+C:\Users\Roman\Desktop\3 семестр\ООП\OOP-Lab10\OOPLab10\obj\Debug\OOPLab10.pdb

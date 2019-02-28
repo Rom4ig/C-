@@ -1,0 +1,7 @@
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab11\OOPLab11\bin\Debug\OOPLab11.exe.config
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab11\OOPLab11\bin\Debug\OOPLab11.exe
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab11\OOPLab11\bin\Debug\OOPLab11.pdb
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab11\OOPLab11\obj\Debug\OOPLab11.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab11\OOPLab11\obj\Debug\OOPLab11.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab11\OOPLab11\obj\Debug\OOPLab11.exe
+C:\Users\Roman\Desktop\2 курс\3 Семестр\3-ООП\OOP-Lab11\OOPLab11\obj\Debug\OOPLab11.pdb

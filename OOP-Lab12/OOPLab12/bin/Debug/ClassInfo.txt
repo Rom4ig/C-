@@ -1,0 +1,19 @@
+Class: OOPLab12.Human
+
+Void ShowMePls(Int32, Int32)
+System.String ToString()
+System.String get_CreatureName()
+Void set_CreatureName(System.String)
+System.String get_OriginPlanet()
+Void set_OriginPlanet(System.String)
+System.String get_Race()
+Void set_Race(System.String)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+Void .ctor()
+Void .ctor(System.String, System.String, System.String)
+System.String CreatureName
+System.String OriginPlanet
+System.String Race
+-------------------------------------------------------

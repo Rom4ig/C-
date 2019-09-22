@@ -1,0 +1,53 @@
+create tablespace ts_GRI
+datafile 'D:\DB\ts_GRI.dbf'
+size 7m
+autoextend on next 5m
+maxsize 20m
+extent managment local;
+
+create tablespace temporary ts_TEMP_GRI
+datafile 'D:\DB\ts_TEMP_GRI.dbf'
+size 5m
+autoextend on next 3m
+maxsize 30m
+extent managment local;
+
+select TABLESPACE_NAME, status, contents logging from SYS.DBA_TABLESPACES
+
+create role RL_GRICORE
+select * from dba_roles where role like 'RL$'
+
+grant   create session,
+	create table,
+	create view,
+	create procedure,
+	create function to RL_GRICORE
+(Возможно ещё delete нужно)
+
+select * from DBA_SYS_PRIVS where GRANTEE = 'RL_GRICORE'
+
+
+
+create profile PF_GRICORE limit
+	password_life_time 180 -- количество дней жизни пароля
+	sessions_per_user 3 -- количество сессий для пользователя
+	failed_login_attemps 7 -- количество попыток входа
+	password_lock_time 1 -- количество дней блокировки полсе ошибок
+	password_reuse_time 10 -- через сколько дней можно повторить пароль
+	password_grace_time default -- количество дней предупреждений о смене пароля
+	connect_time 180 -- время соединения минут 
+	idle_time 30 -- Количество минут простоя
+
+select distinct profile from dba_profiles
+select * from dba_profiles where profile =  'PF_GRICORE'
+select * from dba_profiles where profile =  'DEFAULT'
+
+create user GRICORE identified by 12345
+default tablespace ts_GRI
+temporary tablespase ts_TEMP_GRI
+profile PF_GRICORE
+account unlock
+password expire
+
+grant RL_GRICORE to GRICORE
+
